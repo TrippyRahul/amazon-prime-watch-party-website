@@ -12,14 +12,14 @@ const Work = () => {
         <p>
           Join the fun with this<span>online watch party</span> that lets you
           enjoy synchronized movie or TV show viewing with friends and family
-          through your web browser. It's the perfect way to connect and have a
-          shared movie-watching experience, even when you're physically apart.
-          Here's how it works
+          through your web browser. It&apos;s the perfect way to connect and have a
+          shared movie-watching experience, even when you&apos;re physically apart.
+          Here&apos;s how it works
         </p>
 
         <ul className={styles.content}>
           <li>
-            <span>Extension setup:</span>to start, you'll need to install it in
+            <span>Extension setup:</span>to start, you&apos;ll need to install it in
             major web browsers like Google Chrome and Mozilla Firefox.
           </li>
           <li>
@@ -29,7 +29,7 @@ const Work = () => {
           </li>
           <li>
             <span>Create a Party:</span>After selecting the content, look for
-            the "Watch Party" icon located near the video player. Click on it to
+            the &quot;Watch Party&quot; icon located near the video player. Click on it to
             create a watch party.
           </li>
           <li>
@@ -67,7 +67,7 @@ const Work = () => {
           for Amazon Prime Video content. Everyone who wants to participate
           needs to have an active Amazon Prime subscription. Also, keep in mind
           that there might be some limitations based on the region or the type
-          of device you're using. So, check for compatibility and enjoy the
+          of device you&apos;re using. So, check for compatibility and enjoy the
           movie night with your friends and family!
         </p>
       </div>

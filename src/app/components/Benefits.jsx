@@ -35,13 +35,13 @@ const Benefits = () => {
                 the power of shared movie nights!
               </p>
               <p>
-                But wait, there's more! You won't just be watching alone; you
+                But wait, there&apos;s more! You won&apos;t just be watching alone; you
                 can chat, have hilarious audio calls, and even jump into video
-                calls together! It's like having your own private cinema party
+                calls together! It&apos;s like having your own private cinema party
                 but with the added fun of chatting and laughing together!
               </p>
               <p>
-                So, whether you're binge-watching your favorite series with your
+                So, whether you&apos;re binge-watching your favorite series with your
                 tribe or going on a solo adventure, this unites everyone for
                 unforgettable shared viewing! Grab your popcorn, get cozy, and
                 let the streaming joy take over with it.

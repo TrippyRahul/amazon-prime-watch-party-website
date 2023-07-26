@@ -17,14 +17,14 @@ const Favorite = () => {
                   If you love watching movies or series with your friends, just
                   log in to your<span> watch party amazon prime </span>and
                   invite them to join in! To stream the movie together, both you
-                  and your buddy need to log in at the same time. But don't
-                  worry, once you're both in, the fun begins!
+                  and your buddy need to log in at the same time. But don&apos;t
+                  worry, once you&apos;re both in, the fun begins!
                 </p>
                 <p>
                   With this watch party, you can have audio and video calls
-                  while enjoying the movie together. Plus, you'll benefit from
+                  while enjoying the movie together. Plus, you&apos;ll benefit from
                   fast buffering and HD video quality right in your browser.
-                  It's the ultimate <span>viewing party</span> experience,
+                  It&apos;s the ultimate <span>viewing party</span> experience,
                   making movie nights with friends even more exciting and
                   enjoyable.
                 </p>
@@ -77,9 +77,9 @@ const Favorite = () => {
                 the best online streaming platforms.
               </p>
               <p>
-                Experience high-quality streaming that's synchronized for
+                Experience high-quality streaming that&apos;s synchronized for
                 everyone, so you can all cheer and have a fantastic time
-                together. It's the ultimate way to enjoy shared moments and make
+                together. It&apos;s the ultimate way to enjoy shared moments and make
                 unforgettable memories with your loved ones.
               </p>
             </div>

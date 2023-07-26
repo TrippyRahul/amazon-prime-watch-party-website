@@ -17,8 +17,8 @@ const Hero = () => {
               <div className={styles.text}>
                 <p>
                   Have fun with the boundless joy of a movie with amazon. Here,
-                  you'll find a huge collection of films and TV shows, bringing
-                  the excitement of the big screen to your home. Whether you're
+                  you&apos;ll find a huge collection of films and TV shows, bringing
+                  the excitement of the big screen to your home. Whether you&apos;re
                   with friends, or family, or enjoying some alone time, Amazon
                   Prime lets you share the fun with loved ones, no matter where
                   they are.
@@ -36,8 +36,8 @@ const Hero = () => {
           <p>
             With this extension, you can sync the movie playback and chat in
             real time. Laugh together and talk about your favorite parts while
-            having an audio or video call. It's a fantastic way to connect and
-            enjoy the movie together, even if you're far apart. So grab some
+            having an audio or video call. It&apos;s a fantastic way to connect and
+            enjoy the movie together, even if you&apos;re far apart. So grab some
             popcorn, relax, and have a great time.
           </p>
         </div>

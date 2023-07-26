@@ -25,7 +25,7 @@ const About = () => {
                 all participants see the same video at the exact same time as if
                 they were watching together in person. Plus, it comes with a
                 built-in chat feature that lets viewers interact with each other
-                during the movie or show. It's like having a virtual movie night
+                during the movie or show. It&apos;s like having a virtual movie night
                 with friends, making the experience even more enjoyable and
                 engaging!
               </p>
