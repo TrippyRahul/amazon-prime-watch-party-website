@@ -14,11 +14,11 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <link rel="icon" type="image/x-icon" href="/logo.svg" />
-        <link rel="canonical" href="https://www.amazonprimewatchparty.com/" />
+        <link rel="canonical" href="https://www.amazonprimeparty.com/" />
 
         <meta
           property="og:url"
-          content="https://www.amazonprimewatchparty.com/"
+          content="https://www.amazonprimeparty.com/"
         />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Streaming fun with Amazon prime watch party " />
@@ -28,14 +28,14 @@ export default function RootLayout({ children }) {
         />
         <meta
           property="og:image"
-          content="https://www.amazonprimewatchparty.com/main-logo.svg"
+          content="https://www.amazonprimeparty.com/main-logo.svg"
         />
 
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:domain" content="amazonprimewatchparty.com" />
         <meta
           property="twitter:url"
-          content="https://www.amazonprimewatchparty.com/"
+          content="https://www.amazonprimeparty.com/"
         />
         <meta name="twitter:title" content="Streaming fun with Amazon prime watch party " />
         <meta
@@ -44,7 +44,7 @@ export default function RootLayout({ children }) {
         />
         <meta
           name="twitter:image"
-          content="https://www.amazonprimewatchparty.com/main-logo.svg"
+          content="https://www.amazonprimeparty.com/main-logo.svg"
         />
       </head>
       <body>
