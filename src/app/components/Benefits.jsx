@@ -20,31 +20,27 @@ const Benefits = () => {
         <div className={styles.right}>
           <div className={styles.top}>
             <div className={styles.headings}>
-              <h2>
-                Enjoy a limitless streaming experience with teleparty amazon
-                prime
-              </h2>
+              <h2>Experience endless watching with teleparty amazon prime</h2>
             </div>
             <div className={styles.desc}>
               <p>
-                Get ready for an epic streaming adventure with{" "}
-                <span>teleparty amazon prime.!</span> This magical extension
-                offers an endless collection of movies and TV shows to watch
-                with your buddies and family. Wherever you are, you can join
-                forces and <span>watch amazon prime together</span>, unleashing
-                the power of shared movie nights!
+                With teleparty amazon prime, you will have unlimited movies and
+                series. Enjoy the ultimate experience with friends on watch
+                amazon prime together. In this extension, you will have a huge
+                variety of collections of movies and shows. So, have the best
+                movie nights.
               </p>
               <p>
-                But wait, there&apos;s more! You won&apos;t just be watching alone; you
-                can chat, have hilarious audio calls, and even jump into video
-                calls together! It&apos;s like having your own private cinema party
-                but with the added fun of chatting and laughing together!
+                So, it’s not like you are watching it all alone, it is like you
+                are watching it with your family and friends in your comfort
+                zone. Have your own theatre in your home and share your moments
+                with them.
               </p>
               <p>
-                So, whether you&apos;re binge-watching your favorite series with your
-                tribe or going on a solo adventure, this unites everyone for
-                unforgettable shared viewing! Grab your popcorn, get cozy, and
-                let the streaming joy take over with it.
+                Now, it’s time to create your own cinema and watch movies
+                together. Share your laugh, thoughts, feelings, and love with
+                them. Unite with your buddies and have an unforgettable
+                experience. With its cool features and endless shows.
               </p>
             </div>
             <div className={styles.btn}>

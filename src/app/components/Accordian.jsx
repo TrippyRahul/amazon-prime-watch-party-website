@@ -9,7 +9,7 @@ const questions = [
   {
     id: 1,
     ques: "What is a watch party on Prime? ",
-    ans: "This extension lets Amazon Prime Video subscribers host virtual movie or TV show viewing sessions with friends and family. It syncs everyone's watching, and there's a real-time chat for interaction during the show. Enjoy movies together, chat, and connect with loved ones in real time.",
+    ans: "Watch Party on Prime is a browser extension, where you can invite your friends and family to stream together. In prime, you will have a wide variety of movies and series. It also synchronizes playback movies.",
   },
   {
     id: 2,

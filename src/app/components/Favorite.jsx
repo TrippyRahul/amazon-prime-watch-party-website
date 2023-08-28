@@ -10,23 +10,25 @@ const Favorite = () => {
           <div className={styles.left}>
             <div className={styles["left-top"]}>
               <div className={styles.headings}>
-                <h2>Time syncs with a prime video watch party</h2>
+                <h2>
+                  Stream movies at the same time with Prime Video watch party
+                </h2>
               </div>
               <div className={styles.desc}>
                 <p>
-                  If you love watching movies or series with your friends, just
-                  log in to your<span> watch party amazon prime </span>and
-                  invite them to join in! To stream the movie together, both you
-                  and your buddy need to log in at the same time. But don&apos;t
-                  worry, once you&apos;re both in, the fun begins!
+                  It is super quick, all you need to do is install the
+                  extension. Log in to <span> watch Party Amazon Prime</span>{" "}
+                  and invite your buddies to watch endless movies together. But
+                  remember that you need to log in at the exact time in which
+                  your friend is logging in.
                 </p>
                 <p>
-                  With this watch party, you can have audio and video calls
-                  while enjoying the movie together. Plus, you&apos;ll benefit from
-                  fast buffering and HD video quality right in your browser.
-                  It&apos;s the ultimate <span>viewing party</span> experience,
-                  making movie nights with friends even more exciting and
-                  enjoyable.
+                  With its amazing features including chat and audio/video
+                  calls, you can discuss about your favorite scenes. Enjoy
+                  unlimited series with this extension and fasten up your
+                  buffering speed. Watch your favorite movie in HD quality. Have
+                  an ultimate <span> viewing party </span>with your family and
+                  friends.
                 </p>
               </div>
             </div>
@@ -66,21 +68,21 @@ const Favorite = () => {
           </div>
           <div className={styles["bottom-right"]}>
             <div className={styles.headings}>
-              <h2>Customize your Amazon watch party on tv</h2>
+              <h2>Personalise Amazon watch party on tv</h2>
             </div>
             <div className={styles.desc}>
               <p>
-                Simply click on the creative user icon, and it will unlock
-                amazing features like chat, audio calls, and video calls. With
-                these tools, you can create your perfect movie night with
-                friends and family, picking your favorite shows and movies from
-                the best online streaming platforms.
+                By downloading and installing the extension, you can create your
+                own watch party on it. It has fun features like chat, audio
+                calls, and video calls. With this tool, you can have the perfect
+                movie night with family and friends. So, select your favorite
+                shows from the best online streaming platforms.
               </p>
               <p>
-                Experience high-quality streaming that&apos;s synchronized for
-                everyone, so you can all cheer and have a fantastic time
-                together. It&apos;s the ultimate way to enjoy shared moments and make
-                unforgettable memories with your loved ones.
+                You can explore high-quality movies as they synchronize
+                playback. By streaming shows together simultaneously, you can
+                have a brilliant time together. You can also share your moments
+                and make new memories too.
               </p>
             </div>
           </div>

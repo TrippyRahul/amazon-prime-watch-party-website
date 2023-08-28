@@ -13,32 +13,27 @@ const About = () => {
             </div>
             <div className={styles.desc}>
               <p>
-                Enjoy unlimited streaming fun with friends and family, no matter
-                the distance, using the browser extension. Watch Prime together
-                and chat, make audio and video calls while enjoying your
-                favorite shows. You can also have an{" "}
-                <span> Amazon Prime group watch </span>
-                with your friends.
+                It is the best tool to enjoy endless fun with friends and
+                family. It has the best features like chatting, audio, and video
+                calls while watching your favorite series. You can also create
+                an <span> Amazon Prime group watch </span> with your buddies.
               </p>
               <p>
-                With this feature, everyone can enjoy synchronized streaming, so
-                all participants see the same video at the exact same time as if
-                they were watching together in person. Plus, it comes with a
-                built-in chat feature that lets viewers interact with each other
-                during the movie or show. It&apos;s like having a virtual movie night
-                with friends, making the experience even more enjoyable and
-                engaging!
+                You can enjoy movies at the same time by just logging in
+                together. So, if your friend is in another city, now you can
+                still watch the movie with them. Plus, it has a great chat
+                feature with audio and video callsto discuss your fqvrouite
+                content. It is like you are watching a movie in a theatre
+                without extra disturbance.
               </p>
               <p>
-                You can discuss scenes, share reactions, and engage in real-time
-                conversations, enhancing the shared viewing experience.
+                You can share laughter, joy and discuss scenes in real time.
               </p>
               <p>
-                To use this extension, make sure you have an active Amazon Prime
-                subscription. The feature is available for specific movies and
-                TV shows within the Amazon Prime Video library. So, check out
-                the eligible content and start enjoying the fun of synchronized
-                streaming with your friends and family.
+                You need to have an active account on Amazon Prime. Visit the
+                Amazon video library and choose your favorite content to watch.
+                It has great features like you can chat, audio, and video calls
+                while streaming series.
               </p>
             </div>
           </div>

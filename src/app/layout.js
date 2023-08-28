@@ -6,7 +6,7 @@ import "./globals.css";
 export const metadata = {
   title: "Streaming fun with Amazon prime watch party",
   description:
-    "Amazon Prime Watch Party lets subscribers stream and enjoy their favorite shows and movies together in real-time, with chat interaction, audio and video calls.",
+    "Amazon Prime watch party allows you to stream and enjoy your favorite shows and movies together in real-time, with chat interaction, with audio and video calls",
 };
 
 export default function RootLayout({ children }) {
@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
         <meta property="og:title" content="Streaming fun with Amazon prime watch party " />
         <meta
           property="og:description"
-          content="Amazon Prime Watch Party lets subscribers stream and enjoy their favorite shows and movies together in real-time, with chat interaction, audio and video calls."
+          content="Amazon Prime watch party allows you to stream and enjoy your favorite shows and movies together in real-time, with chat interaction, with audio and video calls"
         />
         <meta
           property="og:image"
@@ -40,7 +40,7 @@ export default function RootLayout({ children }) {
         <meta name="twitter:title" content="Streaming fun with Amazon prime watch party " />
         <meta
           name="twitter:description"
-          content="Amazon Prime Watch Party lets subscribers stream and enjoy their favorite shows and movies together in real-time, with chat interaction, audio and video calls."
+          content="Amazon Prime watch party allows you to stream and enjoy your favorite shows and movies together in real-time, with chat interaction, with audio and video calls"
         />
         <meta
           name="twitter:image"
