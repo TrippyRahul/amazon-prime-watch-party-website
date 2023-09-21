@@ -15,13 +15,17 @@ export default function RootLayout({ children }) {
       <head>
         <link rel="icon" type="image/x-icon" href="/logo.svg" />
         <link rel="canonical" href="https://www.amazonprimeparty.com/" />
-
         <meta
-          property="og:url"
-          content="https://www.amazonprimeparty.com/"
+          name="google-site-verification"
+          content="tCvjyM1W-PyhbwuUDIxqRmt45nVdtJQhvnv8oRvXzr8"
         />
+
+        <meta property="og:url" content="https://www.amazonprimeparty.com/" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Streaming fun with Amazon prime watch party " />
+        <meta
+          property="og:title"
+          content="Streaming fun with Amazon prime watch party "
+        />
         <meta
           property="og:description"
           content="Amazon Prime watch party allows you to stream and enjoy your favorite shows and movies together in real-time, with chat interaction, with audio and video calls"
@@ -37,7 +41,10 @@ export default function RootLayout({ children }) {
           property="twitter:url"
           content="https://www.amazonprimeparty.com/"
         />
-        <meta name="twitter:title" content="Streaming fun with Amazon prime watch party " />
+        <meta
+          name="twitter:title"
+          content="Streaming fun with Amazon prime watch party "
+        />
         <meta
           name="twitter:description"
           content="Amazon Prime watch party allows you to stream and enjoy your favorite shows and movies together in real-time, with chat interaction, with audio and video calls"
