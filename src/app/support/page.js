@@ -10,10 +10,10 @@ const Support = () => {
 
     emailjs
       .sendForm(
-        "service_i5xn1ra",
-        "template_vdzh5g6",
+        "service_j42pesf",
+        "template_3a3h1wk",
         e.target,
-        "leHavwFtDDb_5X96s"
+        "a7OWNl4A-g13LzcHW"
       )
       .then(
         (result) => {
