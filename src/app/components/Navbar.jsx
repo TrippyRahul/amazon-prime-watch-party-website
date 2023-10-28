@@ -41,9 +41,9 @@ const Navbar = () => {
             <Link href="/support">Support</Link>
           </li>
         </ul>
-        <a href="#" className={styles.hideBtn}>
+        <span className={styles.hideBtn}>
           <Button />
-        </a>
+        </span>
 
         <div
           className={`${styles.mobileMenuBtn}  ${isOpen && styles.animate}`}
@@ -60,7 +60,7 @@ const Navbar = () => {
           <Link href="/">
             <div className={styles["image-container"]}>
               <Image
-                src="/logo.svg"
+                src="/main-logo.svg"
                 alt="ott-party"
                 fill={true}
                 className={styles["image"]}

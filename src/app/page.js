@@ -4,15 +4,17 @@ import Work from "./components/Work";
 import Join from "./components/Join";
 import About from "./components/About";
 import Accordian from "./components/Accordian";
+import JoinNow from "./components/JoinNow";
 
 export default function Home() {
   return (
     <>
       <Benefits />
-      <Favorite/>
-      <Work/>
-      <About/>
-      <Accordian/>
+      <Favorite />
+      <Work />
+      <About />
+      <Accordian />
+      <JoinNow />
     </>
   );
 }
