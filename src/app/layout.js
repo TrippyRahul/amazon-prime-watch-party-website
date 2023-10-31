@@ -2,6 +2,7 @@ import Schema from "./Schema";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import "./globals.css";
+import Script from "next/script";
 
 export const metadata = {
   title: "Streaming fun with Amazon prime watch party",
@@ -52,6 +53,18 @@ export default function RootLayout({ children }) {
         <meta
           name="twitter:image"
           content="https://www.amazonprimeparty.com/main-logo.svg"
+        />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-DB61TJFG7T" />
+        <Script
+          id="gtm-script"
+          dangerouslySetInnerHTML={{
+            __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-DB61TJFG7T');
+          `,
+          }}
         />
       </head>
       <body>

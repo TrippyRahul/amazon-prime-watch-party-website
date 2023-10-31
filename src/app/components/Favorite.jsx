@@ -8,6 +8,16 @@ const Favorite = () => {
       <div className={styles.container}>
         <div className={styles.top}>
           <div className={styles.left}>
+            <div className={styles["image-container"]}>
+              <Image
+                src="/favorite.svg"
+                alt="favorite"
+                fill={true}
+                className={styles.image}
+              />
+            </div>
+          </div>
+          <div className={styles.right}>
             <div className={styles["left-top"]}>
               <div className={styles.headings}>
                 <h2>
@@ -33,30 +43,10 @@ const Favorite = () => {
               </div>
             </div>
           </div>
-          <div className={styles.right}>
-            <div className={styles["image-container"]}>
-              <Image
-                src="/favorite.svg"
-                alt="favorite"
-                fill={true}
-                className={styles.image}
-              />
-            </div>
-          </div>
         </div>
 
         <div className={styles.bottom}>
           <div className={styles["bottom-left"]}>
-            <div className={styles["image-container"]}>
-              <Image
-                src="/customize.svg"
-                alt="customize"
-                fill={true}
-                className={styles.image}
-              />
-            </div>
-          </div>
-          <div className={styles["bottom-right"]}>
             <div className={styles.headings}>
               <h2>Personalise Amazon watch party on tv</h2>
             </div>
@@ -74,6 +64,16 @@ const Favorite = () => {
                 have a brilliant time together. You can also share your moments
                 and make new memories too.
               </p>
+            </div>
+          </div>
+          <div className={styles["bottom-right"]}>
+            <div className={styles["image-container"]}>
+              <Image
+                src="/customize.svg"
+                alt="customize"
+                fill={true}
+                className={styles.image}
+              />
             </div>
           </div>
         </div>
